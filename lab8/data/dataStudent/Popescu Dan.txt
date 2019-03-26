@@ -1,0 +1,5 @@
+Tema:3
+Nota:10.0
+Predata in saptamana:10
+Deadline:11
+Feedback:sdf

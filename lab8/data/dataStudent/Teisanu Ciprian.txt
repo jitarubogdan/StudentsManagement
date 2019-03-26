@@ -1,0 +1,15 @@
+Tema:2
+Nota:7.5
+Predata in saptamana:10
+Deadline:9
+Feedback:wdsf
+Tema:3
+Nota:9.5
+Predata in saptamana:12
+Deadline:11
+Feedback:fa
+Tema:2
+Nota:7.5
+Predata in saptamana:10
+Deadline:9
+Feedback:bdn

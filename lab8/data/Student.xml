@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<list>
+    <student studentId="1">
+        <name>Jitaru Bogdan</name>
+        <group>224</group>
+        <email>jbir2330@scs.ubbcluj.ro</email>
+    </student>
+    <student studentId="34">
+        <name>Popescu Vasile</name>
+        <group>224</group>
+        <email>pvir2354@scs.ubbcluj.ro</email>
+    </student>
+    <student studentId="2">
+        <name>Pop Ion</name>
+        <group>224</group>
+        <email>piir3456@scs.ubbcluj.ro</email>
+    </student>
+</list>

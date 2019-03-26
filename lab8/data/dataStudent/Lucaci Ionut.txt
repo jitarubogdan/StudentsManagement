@@ -1,0 +1,5 @@
+Tema:1
+Nota:7.5
+Predata in saptamana:11
+Deadline:10
+Feedback:Nota a fost niminuata cu 2.5 puncte

@@ -1,0 +1,10 @@
+Tema:3
+Nota:10.0
+Predata in saptamana:10
+Deadline:13
+Feedback:fgn
+Tema:3
+Nota:7.5
+Predata in saptamana:12
+Deadline:11
+Feedback:Nota a fost niminuata cu 2.5 puncte

@@ -1,0 +1,8 @@
+student=1|tema=1|nota=10|data=10
+student=1|tema=2|nota=7.5|data=10
+student=1|tema=3|nota=10.0|data=10
+student=2|tema=3|nota=10.0|data=10
+student=7|tema=3|nota=9.5|data=12
+student=7|tema=2|nota=7.5|data=10
+student=3|tema=3|nota=7.5|data=12
+student=4|tema=1|nota=7.5|data=11

@@ -1,0 +1,5 @@
+id=1|nume=Jitaru Bogdan|grupa=224|email=jbir2330@scs.ubbcluj.ro
+id=2|nume=Popescu Dan|grupa=226|email=pdir5467@scs.ubbcluj.ro
+id=3|nume=Cretu Mihai|grupa=223|email=cmir3422@scs.ubbcluj.ro
+id=7|nume=Teisanu Ciprian|grupa=227|email=tcir3424@scs.ubbcluj.ro
+id=4|nume=Lucaci Ionut|grupa=223|email=liir2345@scs.ubbcluj.ro
